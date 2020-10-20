@@ -1,11 +1,14 @@
-# P422 Project (REPLACE ME)
+**P422 project: how to find the value of insurance**
+This will eventually become a real website that I will be creating for my fathers business which name will be kept hidden.
 
-Here, you should put your project proposal. It should be written in english text and describe what you intend to build along with any information necessary. Please use proper markdown formatting. You can find a guide here: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+Inside of my project there will be 4 different screens:
+  1. Main screen to see what type of insurance you want(**such as: Auto, Home, Boat insurance**)
+  2. once you decide which insurance you want you will then select the range of credit they have with a drop down menu
+  3. THey will then select in a range of how much money they make a year and with this combination of information they will be given a range of what they can expect their price to be. 
+  4. Then they will give information based off what type of vehicle or home they are trying to insure
+  4. the final screen will show a picture of the agent (**which will just be my information for now**) and how they could help them lower the rate and a brief understanding of how the insurance is priced aand things like that.
 
-Your project should have the following requirements met:
+The project will have a server side for the people who have access to te database which will show *the name of the customer, the age, their credit choice, and how much they make*.
+Inside of the database they will show what is the best course of action for the agent to suggest to go to a different company or to try and see if they have any kind of special rates they could offer them based off of the special catagories that will be things such as: **Veteran status or disability status**
 
-* A server side component written with javascript that stores information in a database
-* A client side component written in Angular
-* At least four different interactive views for the client
-
-You may choose whatever kid of project you like within the ethical guidlines of the university. Commit your propasal to this file and we will discuss your project idea if it needs improvement.
+The information that is given to the client about the agent will be a *picture, name, email, and address of the building.*
